@@ -10,6 +10,10 @@ Bateria: 3.5A
 ## Componentes
 ### Placa Fotovoltaica Policristalina 20W
 
+<h1 align="center">
+  <img alt="Placa" src=".github/placa.jpeg" />
+</h1>
+
 * Controlador de Carga PWM 10A
 * Bateria Estacionária 12v 1A
 * Cabo flex preto com adaptador (negativo) 
