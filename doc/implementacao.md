@@ -12,6 +12,9 @@ Bateria: 3.5A
 # Tempo de Carregamento Completo
 5 horas de sol pleno
 
+# Implementação e Teste de Carga do Sistema
+https://youtu.be/WdAXKtaMGNY
+
 # Componentes
 ## Placa Fotovoltaica Policristalina 20W
 
